@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "blocky:block/crystallite_bricks_slab"
+    },
+    "type=double": {
+      "model": "blocky:block/crystallite_bricks"
+    },
+    "type=top": {
+      "model": "blocky:block/crystallite_bricks_slab_top"
+    }
+  }
+}

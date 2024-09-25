@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "blocky:block/crystallite_bricks_cracked",
+    "side": "blocky:block/crystallite_bricks_cracked",
+    "top": "blocky:block/crystallite_bricks_cracked"
+  }
+}

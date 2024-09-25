@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "blocky:crystallite"
+    },
+    {
+      "item": "blocky:crystallite"
+    },
+    {
+      "item": "minecraft:amethyst_block"
+    },
+    {
+      "item": "minecraft:amethyst_block"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "blocky:amethyst_crystallite"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "blocky:crystallite"
+  },
+  "result": {
+    "count": 1,
+    "id": "blocky:crystallite_bricks_cracked"
+  }
+}

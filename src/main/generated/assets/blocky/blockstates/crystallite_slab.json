@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "blocky:block/crystallite_slab"
+    },
+    "type=double": {
+      "model": "blocky:block/crystallite"
+    },
+    "type=top": {
+      "model": "blocky:block/crystallite_slab_top"
+    }
+  }
+}

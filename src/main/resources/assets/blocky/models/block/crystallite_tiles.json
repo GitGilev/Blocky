@@ -1,0 +1,22 @@
+{
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+      "all": "blocky:block/crystallite_tiles",
+      "mirrored": "blocky:block/crystallite_tiles_mirrored",
+      "normal": "blocky:block/crystallite_tiles"
+    },
+    "elements": [
+      {
+        "from": [ 0, 0, 0 ],
+        "to": [ 16, 16, 16 ],
+        "faces": {
+          "down":  { "texture": "#mirrored", "cullface": "down" },
+          "up":    { "texture": "#mirrored", "cullface": "up" },
+          "north": { "texture": "#normal", "cullface": "north" },
+          "south": { "texture": "#normal", "cullface": "south" },
+          "west":  { "texture": "#mirrored", "cullface": "west" },
+          "east":  { "texture": "#mirrored", "cullface": "east" }
+        }
+      }
+    ]
+  }

@@ -1,0 +1,24 @@
+{
+
+
+    "block.blocky.ochrum": "Кристаллит",
+    "block.blocky.ochrum_slab": "Кристаллитовая плита",
+    "block.blocky.ochrum_stairs": "Кристаллитовые ступеньки",
+    "block.blocky.crystallite_wall": "Кристаллитовая стена",
+    "block.blocky.crystallite_pillar": "Кристаллитовая колонна",
+    "block.blocky.crystallite_bricks_cracked": "Потресковавшиеся кристаллитовые кирпичи",
+    "block.blocky.crystallite_bricks_cracked_slab": "Потресковавшиеся кристаллитовая кирпичная плита",
+    "block.blocky.crystallite_bricks_cracked_stairs": "Потресковавшиеся кристаллитовые кирпичные ступеньки",
+    "block.blocky.crystallite_tiles": "Кристаллитовая плитка",
+    "block.blocky.crystallite": "Полированный кристаллит",
+    "block.blocky.crystallite_slab": "Полированная кристаллитовая плита",
+    "block.blocky.crystallite_stairs": "Полированные кристаллитовые ступеньки",
+    "block.blocky.chiseled_crystallite": "Точёный кристаллит",
+    "block.blocky.crystallite_bricks": "Кристаллитовые кирпичи",
+    "block.blocky.crystallite_bricks_slab": "Кристаллитовая кирпичная плита",
+    "block.blocky.crystallite_bricks_stairs": "Кристаллитовые кирпичные ступеньки",
+    "block.blocky.amethyst_bricks": "Аметистовые кирпичи",
+    "block.blocky.amethyst_bricks_slab": "Аметистовая кирпичная плита",
+    "block.blocky.amethyst_bricks_stairs": "Аметистовые кирпичные ступеньки",
+    "block.blocky.amethyst_crystallite": "Аметистовый кристаллит"
+  }

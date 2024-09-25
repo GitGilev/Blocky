@@ -1,0 +1,21 @@
+{
+    "replace": false,
+    "values": [
+        "blocky:ochrum",
+        "blocky:crystallite",
+        "blocky:chiseled_crystallite",
+        "blocky:crystallite_bricks",
+        "blocky:crystallite_bricks_cracked",
+        "blocky:crystallite_wall",
+        "blocky:crystallite_tiles",
+        "blocky:crystallite_pillar",
+        "blocky:ochrum_slab",
+        "blocky:ochrum_stairs",
+        "blocky:crystallite_bricks_cracked_stairs",
+        "blocky:crystallite_bricks_cracked_slab",
+        "blocky:crystallite_slab",
+        "blocky:crystallite_stairs",
+        "blocky:crystallite_bricks_slab",
+        "blocky:crystallite_bricks_stairs"
+    ]
+}

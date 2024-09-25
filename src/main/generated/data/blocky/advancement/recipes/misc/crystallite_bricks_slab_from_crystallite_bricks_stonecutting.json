@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_crystallite_bricks": {
+      "conditions": {
+        "items": [
+          {
+            "items": "blocky:crystallite_bricks"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:crystallite_bricks_slab_from_crystallite_bricks_stonecutting"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_crystallite_bricks"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:crystallite_bricks_slab_from_crystallite_bricks_stonecutting"
+    ]
+  }
+}

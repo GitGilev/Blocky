@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "values": [
+        "blocky:crystallite_stairs",
+        "blocky:ochrum_stairs",
+        "blocky:crystallite_bricks_cracked_stairs",
+        "blocky:crystallite_bricks_stairs",
+        "blocky:amethyst_bricks_stairs"
+
+    ]
+}

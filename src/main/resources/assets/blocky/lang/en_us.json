@@ -1,0 +1,24 @@
+{
+
+
+    "block.blocky.ochrum": "Crystallite",
+    "block.blocky.ochrum_slab": "Crystallite slab",
+    "block.blocky.ochrum_stairs": "Crystallite stairs",
+    "block.blocky.crystallite_wall": "Crystallite wall",
+    "block.blocky.crystallite_pillar": "Crystallite pillar",
+    "block.blocky.crystallite_bricks_cracked": "Cracked crystallite bricks",
+    "block.blocky.crystallite_bricks_cracked_slab": "Cracked crystallite bricks slab",
+    "block.blocky.crystallite_bricks_cracked_stairs": "Cracked crystallite bricks stairs",
+    "block.blocky.crystallite_tiles": "Crystallite tiles",
+    "block.blocky.crystallite": "Polished crystallite",
+    "block.blocky.crystallite_slab": "Polished crystallite slab",
+    "block.blocky.crystallite_stairs": "Polished crystallite stairs",
+    "block.blocky.chiseled_crystallite": "Chiseled crystallite",
+    "block.blocky.crystallite_bricks": "Crystallite bricks",
+    "block.blocky.crystallite_bricks_slab": "Crystallite bricks slab",
+    "block.blocky.crystallite_bricks_stairs": "Crystallite bricks stairs",
+    "block.blocky.amethyst_bricks": "Amethyst bricks",
+    "block.blocky.amethyst_bricks_slab": "Amethyst bricks slab",
+    "block.blocky.amethyst_bricks_stairs": "Amethyst bricks stairs",
+    "block.blocky.amethyst_crystallite": "Amethyst crystallite"
+  }

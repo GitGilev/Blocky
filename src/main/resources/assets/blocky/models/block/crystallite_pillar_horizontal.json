@@ -1,0 +1,22 @@
+{
+    "parent": "minecraft:block/cube_column_horizontal",
+    "textures": {
+      "side": "blocky:block/crystallite_pillar",
+      "all": "blocky:block/crystallite_pillar",
+      "end": "blocky:block/crystallite_pillar_top"
+    },
+    "elements": [
+      {
+        "from": [ 0, 0, 0 ],
+        "to": [ 16, 16, 16 ],
+        "faces": {
+          "down":  { "texture": "#end", "cullface": "down" },
+          "up":    { "texture": "#end", "cullface": "up" },
+          "north": { "texture": "#side", "cullface": "north" },
+          "south": { "texture": "#side", "cullface": "south" },
+          "west":  { "texture": "#side", "cullface": "west" },
+          "east":  { "texture": "#side", "cullface": "east" }
+        }
+      }
+    ]
+  }

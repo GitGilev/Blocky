@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "": [
+      {
+      "model": "blocky:block/ochrum"
+      },
+      {
+        "model": "blocky:block/ochrum",
+        "y": 180
+      }
+    ]
+
+  }
+}
