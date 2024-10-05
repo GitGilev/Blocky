@@ -3,15 +3,16 @@
 	"id": "blocky",
 	"version": "${version}",
 	"name": "Blocky",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Add new stone type and block variations for it",
 	"authors": [
-		"Me!"
+		"GitGilev",
+		"GSTstudio_official",
+		"MilkyFur"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/GitGilev/Blocky"
 	},
-	"license": "CC0-1.0",
+	"license": "ARR",
 	"icon": "assets/blocky/icon.png",
 	"environment": "*",
 	"entrypoints": {
